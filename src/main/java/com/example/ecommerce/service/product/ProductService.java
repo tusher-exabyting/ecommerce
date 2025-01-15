@@ -1,4 +1,4 @@
-package com.example.ecommerce.product;
+package com.example.ecommerce.service.product;
 
 
 import com.example.ecommerce.entity.Product;

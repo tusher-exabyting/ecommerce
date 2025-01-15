@@ -4,7 +4,7 @@ package com.example.ecommerce.controller;
 import com.example.ecommerce.converter.GenericConverter;
 import com.example.ecommerce.dto.ProductDto;
 import com.example.ecommerce.entity.Product;
-import com.example.ecommerce.product.ProductService;
+import com.example.ecommerce.service.product.ProductService;
 import com.example.ecommerce.response.ApiResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
